@@ -1,0 +1,700 @@
+PID: 81265
+Numero de escrituras: 50
+Primera Escritura	1	390393	2025-06-18 19:16:36
+Ultima Escritura	50	406347	2025-06-18 19:16:39
+Menor Posicion		43	13691	2025-06-18 19:16:38
+Mayor Posicion		2	490746	2025-06-18 19:16:36
+
+PID: 81267
+Numero de escrituras: 50
+Primera Escritura	1	362792	2025-06-18 19:16:36
+Ultima Escritura	50	397276	2025-06-18 19:16:39
+Menor Posicion		27	8885	2025-06-18 19:16:37
+Mayor Posicion		9	495633	2025-06-18 19:16:37
+
+PID: 81269
+Numero de escrituras: 50
+Primera Escritura	1	51436	2025-06-18 19:16:36
+Ultima Escritura	50	292247	2025-06-18 19:16:39
+Menor Posicion		22	742	2025-06-18 19:16:37
+Mayor Posicion		47	488750	2025-06-18 19:16:39
+
+PID: 81270
+Numero de escrituras: 50
+Primera Escritura	1	150091	2025-06-18 19:16:36
+Ultima Escritura	50	196369	2025-06-18 19:16:39
+Menor Posicion		4	1325	2025-06-18 19:16:37
+Mayor Posicion		40	482925	2025-06-18 19:16:38
+
+PID: 81272
+Numero de escrituras: 50
+Primera Escritura	1	464150	2025-06-18 19:16:37
+Ultima Escritura	50	53606	2025-06-18 19:16:39
+Menor Posicion		23	2122	2025-06-18 19:16:38
+Mayor Posicion		4	469732	2025-06-18 19:16:37
+
+PID: 81273
+Numero de escrituras: 50
+Primera Escritura	1	111275	2025-06-18 19:16:37
+Ultima Escritura	50	367082	2025-06-18 19:16:39
+Menor Posicion		3	37697	2025-06-18 19:16:37
+Mayor Posicion		23	488691	2025-06-18 19:16:38
+
+PID: 81275
+Numero de escrituras: 50
+Primera Escritura	1	471356	2025-06-18 19:16:37
+Ultima Escritura	50	330335	2025-06-18 19:16:39
+Menor Posicion		8	3763	2025-06-18 19:16:37
+Mayor Posicion		1	471356	2025-06-18 19:16:37
+
+PID: 81277
+Numero de escrituras: 50
+Primera Escritura	1	392031	2025-06-18 19:16:37
+Ultima Escritura	50	240298	2025-06-18 19:16:40
+Menor Posicion		14	13896	2025-06-18 19:16:38
+Mayor Posicion		28	467197	2025-06-18 19:16:38
+
+PID: 81278
+Numero de escrituras: 50
+Primera Escritura	1	367481	2025-06-18 19:16:37
+Ultima Escritura	50	406357	2025-06-18 19:16:40
+Menor Posicion		37	16156	2025-06-18 19:16:39
+Mayor Posicion		16	482035	2025-06-18 19:16:38
+
+PID: 81280
+Numero de escrituras: 50
+Primera Escritura	1	158268	2025-06-18 19:16:37
+Ultima Escritura	50	373882	2025-06-18 19:16:40
+Menor Posicion		46	3212	2025-06-18 19:16:40
+Mayor Posicion		37	491247	2025-06-18 19:16:39
+
+PID: 81281
+Numero de escrituras: 50
+Primera Escritura	1	162485	2025-06-18 19:16:38
+Ultima Escritura	50	371343	2025-06-18 19:16:40
+Menor Posicion		28	2089	2025-06-18 19:16:39
+Mayor Posicion		38	484862	2025-06-18 19:16:39
+
+PID: 81283
+Numero de escrituras: 50
+Primera Escritura	1	28567	2025-06-18 19:16:38
+Ultima Escritura	50	160585	2025-06-18 19:16:40
+Menor Posicion		7	2750	2025-06-18 19:16:38
+Mayor Posicion		10	494579	2025-06-18 19:16:38
+
+PID: 81284
+Numero de escrituras: 50
+Primera Escritura	1	9721	2025-06-18 19:16:38
+Ultima Escritura	50	454331	2025-06-18 19:16:40
+Menor Posicion		8	1066	2025-06-18 19:16:38
+Mayor Posicion		26	499697	2025-06-18 19:16:39
+
+PID: 81286
+Numero de escrituras: 50
+Primera Escritura	1	147129	2025-06-18 19:16:38
+Ultima Escritura	50	39063	2025-06-18 19:16:40
+Menor Posicion		39	7917	2025-06-18 19:16:40
+Mayor Posicion		28	473977	2025-06-18 19:16:39
+
+PID: 81288
+Numero de escrituras: 50
+Primera Escritura	1	107748	2025-06-18 19:16:38
+Ultima Escritura	50	72735	2025-06-18 19:16:41
+Menor Posicion		40	5232	2025-06-18 19:16:40
+Mayor Posicion		48	499317	2025-06-18 19:16:41
+
+PID: 81289
+Numero de escrituras: 50
+Primera Escritura	1	443023	2025-06-18 19:16:38
+Ultima Escritura	50	42182	2025-06-18 19:16:41
+Menor Posicion		11	3203	2025-06-18 19:16:39
+Mayor Posicion		27	488373	2025-06-18 19:16:40
+
+PID: 81291
+Numero de escrituras: 50
+Primera Escritura	1	242035	2025-06-18 19:16:38
+Ultima Escritura	50	35637	2025-06-18 19:16:41
+Menor Posicion		3	10037	2025-06-18 19:16:39
+Mayor Posicion		11	488824	2025-06-18 19:16:39
+
+PID: 81292
+Numero de escrituras: 50
+Primera Escritura	1	413063	2025-06-18 19:16:39
+Ultima Escritura	50	218118	2025-06-18 19:16:41
+Menor Posicion		32	9156	2025-06-18 19:16:40
+Mayor Posicion		27	483328	2025-06-18 19:16:40
+
+PID: 81294
+Numero de escrituras: 50
+Primera Escritura	1	33851	2025-06-18 19:16:39
+Ultima Escritura	50	381508	2025-06-18 19:16:41
+Menor Posicion		31	12041	2025-06-18 19:16:40
+Mayor Posicion		37	479806	2025-06-18 19:16:41
+
+PID: 81295
+Numero de escrituras: 50
+Primera Escritura	1	424175	2025-06-18 19:16:39
+Ultima Escritura	50	69654	2025-06-18 19:16:41
+Menor Posicion		48	3695	2025-06-18 19:16:41
+Mayor Posicion		33	494120	2025-06-18 19:16:40
+
+PID: 81296
+Numero de escrituras: 50
+Primera Escritura	1	234365	2025-06-18 19:16:39
+Ultima Escritura	50	219514	2025-06-18 19:16:41
+Menor Posicion		39	1642	2025-06-18 19:16:41
+Mayor Posicion		47	474428	2025-06-18 19:16:41
+
+PID: 81298
+Numero de escrituras: 50
+Primera Escritura	1	102292	2025-06-18 19:16:39
+Ultima Escritura	50	307743	2025-06-18 19:16:41
+Menor Posicion		41	14106	2025-06-18 19:16:41
+Mayor Posicion		9	495189	2025-06-18 19:16:39
+
+PID: 81299
+Numero de escrituras: 50
+Primera Escritura	1	263492	2025-06-18 19:16:39
+Ultima Escritura	50	123628	2025-06-18 19:16:41
+Menor Posicion		12	18855	2025-06-18 19:16:40
+Mayor Posicion		11	495748	2025-06-18 19:16:40
+
+PID: 81301
+Numero de escrituras: 50
+Primera Escritura	1	234862	2025-06-18 19:16:39
+Ultima Escritura	50	486522	2025-06-18 19:16:42
+Menor Posicion		4	2652	2025-06-18 19:16:39
+Mayor Posicion		50	486522	2025-06-18 19:16:42
+
+PID: 81302
+Numero de escrituras: 50
+Primera Escritura	1	378890	2025-06-18 19:16:39
+Ultima Escritura	50	259122	2025-06-18 19:16:42
+Menor Posicion		9	422	2025-06-18 19:16:40
+Mayor Posicion		27	491226	2025-06-18 19:16:41
+
+PID: 81304
+Numero de escrituras: 50
+Primera Escritura	1	462149	2025-06-18 19:16:39
+Ultima Escritura	50	315617	2025-06-18 19:16:42
+Menor Posicion		34	3647	2025-06-18 19:16:41
+Mayor Posicion		39	499098	2025-06-18 19:16:41
+
+PID: 81305
+Numero de escrituras: 50
+Primera Escritura	1	120000	2025-06-18 19:16:39
+Ultima Escritura	50	333530	2025-06-18 19:16:42
+Menor Posicion		16	8221	2025-06-18 19:16:40
+Mayor Posicion		37	496030	2025-06-18 19:16:41
+
+PID: 81306
+Numero de escrituras: 50
+Primera Escritura	1	17542	2025-06-18 19:16:40
+Ultima Escritura	50	293197	2025-06-18 19:16:42
+Menor Posicion		47	1002	2025-06-18 19:16:42
+Mayor Posicion		48	499754	2025-06-18 19:16:42
+
+PID: 81307
+Numero de escrituras: 50
+Primera Escritura	1	13754	2025-06-18 19:16:40
+Ultima Escritura	50	259874	2025-06-18 19:16:42
+Menor Posicion		36	4025	2025-06-18 19:16:41
+Mayor Posicion		11	492652	2025-06-18 19:16:40
+
+PID: 81309
+Numero de escrituras: 50
+Primera Escritura	1	435026	2025-06-18 19:16:40
+Ultima Escritura	50	84388	2025-06-18 19:16:42
+Menor Posicion		14	31359	2025-06-18 19:16:40
+Mayor Posicion		32	499669	2025-06-18 19:16:41
+
+PID: 81310
+Numero de escrituras: 50
+Primera Escritura	1	321040	2025-06-18 19:16:40
+Ultima Escritura	50	399051	2025-06-18 19:16:42
+Menor Posicion		13	30320	2025-06-18 19:16:41
+Mayor Posicion		17	496865	2025-06-18 19:16:41
+
+PID: 81312
+Numero de escrituras: 50
+Primera Escritura	1	399471	2025-06-18 19:16:40
+Ultima Escritura	50	347852	2025-06-18 19:16:42
+Menor Posicion		25	11499	2025-06-18 19:16:41
+Mayor Posicion		38	490941	2025-06-18 19:16:42
+
+PID: 81313
+Numero de escrituras: 50
+Primera Escritura	1	426896	2025-06-18 19:16:40
+Ultima Escritura	50	432025	2025-06-18 19:16:43
+Menor Posicion		17	7865	2025-06-18 19:16:41
+Mayor Posicion		48	492065	2025-06-18 19:16:42
+
+PID: 81315
+Numero de escrituras: 50
+Primera Escritura	1	85811	2025-06-18 19:16:40
+Ultima Escritura	50	221109	2025-06-18 19:16:43
+Menor Posicion		28	17232	2025-06-18 19:16:42
+Mayor Posicion		26	492965	2025-06-18 19:16:41
+
+PID: 81316
+Numero de escrituras: 50
+Primera Escritura	1	269776	2025-06-18 19:16:40
+Ultima Escritura	50	99655	2025-06-18 19:16:43
+Menor Posicion		48	401	2025-06-18 19:16:43
+Mayor Posicion		47	498345	2025-06-18 19:16:43
+
+PID: 81317
+Numero de escrituras: 50
+Primera Escritura	1	492991	2025-06-18 19:16:40
+Ultima Escritura	50	1325	2025-06-18 19:16:43
+Menor Posicion		50	1325	2025-06-18 19:16:43
+Mayor Posicion		1	492991	2025-06-18 19:16:40
+
+PID: 81319
+Numero de escrituras: 50
+Primera Escritura	1	434877	2025-06-18 19:16:41
+Ultima Escritura	50	483426	2025-06-18 19:16:43
+Menor Posicion		41	2705	2025-06-18 19:16:43
+Mayor Posicion		50	483426	2025-06-18 19:16:43
+
+PID: 81320
+Numero de escrituras: 50
+Primera Escritura	1	86835	2025-06-18 19:16:41
+Ultima Escritura	50	46444	2025-06-18 19:16:43
+Menor Posicion		36	12019	2025-06-18 19:16:42
+Mayor Posicion		25	494889	2025-06-18 19:16:42
+
+PID: 81321
+Numero de escrituras: 50
+Primera Escritura	1	186669	2025-06-18 19:16:41
+Ultima Escritura	50	405320	2025-06-18 19:16:43
+Menor Posicion		16	10589	2025-06-18 19:16:41
+Mayor Posicion		24	499487	2025-06-18 19:16:42
+
+PID: 81323
+Numero de escrituras: 50
+Primera Escritura	1	380773	2025-06-18 19:16:41
+Ultima Escritura	50	207569	2025-06-18 19:16:43
+Menor Posicion		28	17666	2025-06-18 19:16:42
+Mayor Posicion		30	476883	2025-06-18 19:16:42
+
+PID: 81324
+Numero de escrituras: 50
+Primera Escritura	1	297360	2025-06-18 19:16:41
+Ultima Escritura	50	352377	2025-06-18 19:16:43
+Menor Posicion		34	8392	2025-06-18 19:16:42
+Mayor Posicion		18	499156	2025-06-18 19:16:42
+
+PID: 81326
+Numero de escrituras: 50
+Primera Escritura	1	282313	2025-06-18 19:16:41
+Ultima Escritura	50	371578	2025-06-18 19:16:43
+Menor Posicion		9	18260	2025-06-18 19:16:41
+Mayor Posicion		48	495606	2025-06-18 19:16:43
+
+PID: 81327
+Numero de escrituras: 50
+Primera Escritura	1	101444	2025-06-18 19:16:41
+Ultima Escritura	50	114220	2025-06-18 19:16:44
+Menor Posicion		4	1960	2025-06-18 19:16:41
+Mayor Posicion		2	492499	2025-06-18 19:16:41
+
+PID: 81329
+Numero de escrituras: 50
+Primera Escritura	1	168405	2025-06-18 19:16:41
+Ultima Escritura	50	110047	2025-06-18 19:16:44
+Menor Posicion		27	1376	2025-06-18 19:16:43
+Mayor Posicion		16	497148	2025-06-18 19:16:42
+
+PID: 81330
+Numero de escrituras: 50
+Primera Escritura	1	80174	2025-06-18 19:16:41
+Ultima Escritura	50	44369	2025-06-18 19:16:44
+Menor Posicion		22	9072	2025-06-18 19:16:42
+Mayor Posicion		14	492590	2025-06-18 19:16:42
+
+PID: 81332
+Numero de escrituras: 50
+Primera Escritura	1	58090	2025-06-18 19:16:42
+Ultima Escritura	50	140670	2025-06-18 19:16:44
+Menor Posicion		40	6435	2025-06-18 19:16:44
+Mayor Posicion		26	491842	2025-06-18 19:16:43
+
+PID: 81333
+Numero de escrituras: 50
+Primera Escritura	1	195767	2025-06-18 19:16:42
+Ultima Escritura	50	242255	2025-06-18 19:16:44
+Menor Posicion		46	8122	2025-06-18 19:16:44
+Mayor Posicion		29	494685	2025-06-18 19:16:43
+
+PID: 81334
+Numero de escrituras: 50
+Primera Escritura	1	359189	2025-06-18 19:16:42
+Ultima Escritura	50	401419	2025-06-18 19:16:44
+Menor Posicion		26	17450	2025-06-18 19:16:43
+Mayor Posicion		17	493671	2025-06-18 19:16:42
+
+PID: 81335
+Numero de escrituras: 50
+Primera Escritura	1	22549	2025-06-18 19:16:42
+Ultima Escritura	50	271972	2025-06-18 19:16:44
+Menor Posicion		26	5269	2025-06-18 19:16:43
+Mayor Posicion		10	489968	2025-06-18 19:16:42
+
+PID: 81337
+Numero de escrituras: 50
+Primera Escritura	1	260216	2025-06-18 19:16:42
+Ultima Escritura	50	310166	2025-06-18 19:16:44
+Menor Posicion		29	15357	2025-06-18 19:16:43
+Mayor Posicion		4	496103	2025-06-18 19:16:42
+
+PID: 81339
+Numero de escrituras: 50
+Primera Escritura	1	128752	2025-06-18 19:16:42
+Ultima Escritura	50	175236	2025-06-18 19:16:44
+Menor Posicion		10	326	2025-06-18 19:16:42
+Mayor Posicion		48	493365	2025-06-18 19:16:44
+
+PID: 81340
+Numero de escrituras: 50
+Primera Escritura	1	99216	2025-06-18 19:16:42
+Ultima Escritura	50	374910	2025-06-18 19:16:44
+Menor Posicion		16	3805	2025-06-18 19:16:43
+Mayor Posicion		5	481640	2025-06-18 19:16:42
+
+PID: 81341
+Numero de escrituras: 50
+Primera Escritura	1	219093	2025-06-18 19:16:42
+Ultima Escritura	50	84279	2025-06-18 19:16:45
+Menor Posicion		8	2270	2025-06-18 19:16:42
+Mayor Posicion		19	490442	2025-06-18 19:16:43
+
+PID: 81342
+Numero de escrituras: 50
+Primera Escritura	1	318412	2025-06-18 19:16:42
+Ultima Escritura	50	389886	2025-06-18 19:16:45
+Menor Posicion		9	4702	2025-06-18 19:16:43
+Mayor Posicion		33	496051	2025-06-18 19:16:44
+
+PID: 81344
+Numero de escrituras: 50
+Primera Escritura	1	133816	2025-06-18 19:16:42
+Ultima Escritura	50	138677	2025-06-18 19:16:45
+Menor Posicion		26	48567	2025-06-18 19:16:44
+Mayor Posicion		23	499101	2025-06-18 19:16:43
+
+PID: 81345
+Numero de escrituras: 50
+Primera Escritura	1	187659	2025-06-18 19:16:42
+Ultima Escritura	50	404142	2025-06-18 19:16:45
+Menor Posicion		41	21834	2025-06-18 19:16:44
+Mayor Posicion		35	488214	2025-06-18 19:16:44
+
+PID: 81346
+Numero de escrituras: 50
+Primera Escritura	1	17378	2025-06-18 19:16:42
+Ultima Escritura	50	445567	2025-06-18 19:16:45
+Menor Posicion		16	9888	2025-06-18 19:16:43
+Mayor Posicion		49	496379	2025-06-18 19:16:45
+
+PID: 81347
+Numero de escrituras: 50
+Primera Escritura	1	301820	2025-06-18 19:16:42
+Ultima Escritura	50	317395	2025-06-18 19:16:45
+Menor Posicion		35	4497	2025-06-18 19:16:44
+Mayor Posicion		9	497462	2025-06-18 19:16:43
+
+PID: 81349
+Numero de escrituras: 50
+Primera Escritura	1	18241	2025-06-18 19:16:43
+Ultima Escritura	50	43556	2025-06-18 19:16:45
+Menor Posicion		1	18241	2025-06-18 19:16:43
+Mayor Posicion		23	499623	2025-06-18 19:16:44
+
+PID: 81350
+Numero de escrituras: 50
+Primera Escritura	1	458334	2025-06-18 19:16:43
+Ultima Escritura	50	32200	2025-06-18 19:16:45
+Menor Posicion		21	4962	2025-06-18 19:16:44
+Mayor Posicion		7	479907	2025-06-18 19:16:43
+
+PID: 81351
+Numero de escrituras: 50
+Primera Escritura	1	126247	2025-06-18 19:16:43
+Ultima Escritura	50	269345	2025-06-18 19:16:45
+Menor Posicion		45	16114	2025-06-18 19:16:45
+Mayor Posicion		8	495580	2025-06-18 19:16:43
+
+PID: 81353
+Numero de escrituras: 50
+Primera Escritura	1	99726	2025-06-18 19:16:43
+Ultima Escritura	50	153172	2025-06-18 19:16:45
+Menor Posicion		18	428	2025-06-18 19:16:44
+Mayor Posicion		38	494715	2025-06-18 19:16:45
+
+PID: 81354
+Numero de escrituras: 50
+Primera Escritura	1	417374	2025-06-18 19:16:43
+Ultima Escritura	50	393078	2025-06-18 19:16:45
+Menor Posicion		22	2728	2025-06-18 19:16:44
+Mayor Posicion		26	495103	2025-06-18 19:16:44
+
+PID: 81356
+Numero de escrituras: 50
+Primera Escritura	1	447135	2025-06-18 19:16:43
+Ultima Escritura	50	165297	2025-06-18 19:16:46
+Menor Posicion		28	27076	2025-06-18 19:16:44
+Mayor Posicion		32	491651	2025-06-18 19:16:45
+
+PID: 81357
+Numero de escrituras: 50
+Primera Escritura	1	461204	2025-06-18 19:16:43
+Ultima Escritura	50	230016	2025-06-18 19:16:46
+Menor Posicion		11	3695	2025-06-18 19:16:44
+Mayor Posicion		43	491092	2025-06-18 19:16:45
+
+PID: 81358
+Numero de escrituras: 50
+Primera Escritura	1	230470	2025-06-18 19:16:43
+Ultima Escritura	50	260467	2025-06-18 19:16:46
+Menor Posicion		35	765	2025-06-18 19:16:45
+Mayor Posicion		16	489959	2025-06-18 19:16:44
+
+PID: 81360
+Numero de escrituras: 50
+Primera Escritura	1	135577	2025-06-18 19:16:43
+Ultima Escritura	50	53034	2025-06-18 19:16:46
+Menor Posicion		38	7256	2025-06-18 19:16:45
+Mayor Posicion		12	499438	2025-06-18 19:16:44
+
+PID: 81361
+Numero de escrituras: 50
+Primera Escritura	1	151123	2025-06-18 19:16:43
+Ultima Escritura	50	491679	2025-06-18 19:16:46
+Menor Posicion		23	7877	2025-06-18 19:16:44
+Mayor Posicion		11	495973	2025-06-18 19:16:44
+
+PID: 81362
+Numero de escrituras: 50
+Primera Escritura	1	106773	2025-06-18 19:16:44
+Ultima Escritura	50	160634	2025-06-18 19:16:46
+Menor Posicion		13	60715	2025-06-18 19:16:44
+Mayor Posicion		5	480253	2025-06-18 19:16:44
+
+PID: 81364
+Numero de escrituras: 50
+Primera Escritura	1	163521	2025-06-18 19:16:44
+Ultima Escritura	50	452106	2025-06-18 19:16:46
+Menor Posicion		26	8555	2025-06-18 19:16:45
+Mayor Posicion		49	498384	2025-06-18 19:16:46
+
+PID: 81365
+Numero de escrituras: 50
+Primera Escritura	1	445188	2025-06-18 19:16:44
+Ultima Escritura	50	479555	2025-06-18 19:16:46
+Menor Posicion		46	12196	2025-06-18 19:16:46
+Mayor Posicion		8	494102	2025-06-18 19:16:44
+
+PID: 81367
+Numero de escrituras: 50
+Primera Escritura	1	432580	2025-06-18 19:16:44
+Ultima Escritura	50	364076	2025-06-18 19:16:46
+Menor Posicion		43	33500	2025-06-18 19:16:46
+Mayor Posicion		23	470409	2025-06-18 19:16:45
+
+PID: 81368
+Numero de escrituras: 50
+Primera Escritura	1	102104	2025-06-18 19:16:44
+Ultima Escritura	50	335864	2025-06-18 19:16:46
+Menor Posicion		27	270	2025-06-18 19:16:45
+Mayor Posicion		47	485143	2025-06-18 19:16:46
+
+PID: 81370
+Numero de escrituras: 50
+Primera Escritura	1	41514	2025-06-18 19:16:44
+Ultima Escritura	50	454017	2025-06-18 19:16:47
+Menor Posicion		14	7741	2025-06-18 19:16:45
+Mayor Posicion		37	493338	2025-06-18 19:16:46
+
+PID: 81371
+Numero de escrituras: 50
+Primera Escritura	1	342797	2025-06-18 19:16:44
+Ultima Escritura	50	285429	2025-06-18 19:16:47
+Menor Posicion		31	8787	2025-06-18 19:16:46
+Mayor Posicion		10	490906	2025-06-18 19:16:45
+
+PID: 81372
+Numero de escrituras: 50
+Primera Escritura	1	63358	2025-06-18 19:16:44
+Ultima Escritura	50	458616	2025-06-18 19:16:47
+Menor Posicion		10	39437	2025-06-18 19:16:45
+Mayor Posicion		34	490758	2025-06-18 19:16:46
+
+PID: 81374
+Numero de escrituras: 50
+Primera Escritura	1	176675	2025-06-18 19:16:44
+Ultima Escritura	50	359995	2025-06-18 19:16:47
+Menor Posicion		49	2374	2025-06-18 19:16:47
+Mayor Posicion		28	482949	2025-06-18 19:16:46
+
+PID: 81375
+Numero de escrituras: 50
+Primera Escritura	1	382187	2025-06-18 19:16:45
+Ultima Escritura	50	388797	2025-06-18 19:16:47
+Menor Posicion		44	1298	2025-06-18 19:16:47
+Mayor Posicion		17	464698	2025-06-18 19:16:45
+
+PID: 81376
+Numero de escrituras: 50
+Primera Escritura	1	385614	2025-06-18 19:16:45
+Ultima Escritura	50	287680	2025-06-18 19:16:47
+Menor Posicion		17	17817	2025-06-18 19:16:45
+Mayor Posicion		6	481350	2025-06-18 19:16:45
+
+PID: 81378
+Numero de escrituras: 50
+Primera Escritura	1	195049	2025-06-18 19:16:45
+Ultima Escritura	50	90257	2025-06-18 19:16:47
+Menor Posicion		20	2172	2025-06-18 19:16:46
+Mayor Posicion		22	499989	2025-06-18 19:16:46
+
+PID: 81379
+Numero de escrituras: 50
+Primera Escritura	1	150053	2025-06-18 19:16:45
+Ultima Escritura	50	250888	2025-06-18 19:16:47
+Menor Posicion		33	20312	2025-06-18 19:16:46
+Mayor Posicion		28	499105	2025-06-18 19:16:46
+
+PID: 81380
+Numero de escrituras: 50
+Primera Escritura	1	371929	2025-06-18 19:16:45
+Ultima Escritura	50	198279	2025-06-18 19:16:47
+Menor Posicion		11	1938	2025-06-18 19:16:45
+Mayor Posicion		9	498496	2025-06-18 19:16:45
+
+PID: 81381
+Numero de escrituras: 50
+Primera Escritura	1	472451	2025-06-18 19:16:45
+Ultima Escritura	50	387935	2025-06-18 19:16:47
+Menor Posicion		24	7402	2025-06-18 19:16:46
+Mayor Posicion		19	490597	2025-06-18 19:16:46
+
+PID: 81383
+Numero de escrituras: 50
+Primera Escritura	1	375317	2025-06-18 19:16:45
+Ultima Escritura	50	384264	2025-06-18 19:16:47
+Menor Posicion		19	11680	2025-06-18 19:16:46
+Mayor Posicion		3	482975	2025-06-18 19:16:45
+
+PID: 81384
+Numero de escrituras: 50
+Primera Escritura	1	245153	2025-06-18 19:16:45
+Ultima Escritura	50	358206	2025-06-18 19:16:47
+Menor Posicion		42	44022	2025-06-18 19:16:47
+Mayor Posicion		13	499167	2025-06-18 19:16:46
+
+PID: 81385
+Numero de escrituras: 50
+Primera Escritura	1	389742	2025-06-18 19:16:45
+Ultima Escritura	50	240762	2025-06-18 19:16:47
+Menor Posicion		31	657	2025-06-18 19:16:46
+Mayor Posicion		11	489768	2025-06-18 19:16:45
+
+PID: 81387
+Numero de escrituras: 50
+Primera Escritura	1	286305	2025-06-18 19:16:45
+Ultima Escritura	50	309708	2025-06-18 19:16:48
+Menor Posicion		7	2871	2025-06-18 19:16:45
+Mayor Posicion		27	498849	2025-06-18 19:16:46
+
+PID: 81388
+Numero de escrituras: 50
+Primera Escritura	1	169115	2025-06-18 19:16:45
+Ultima Escritura	50	8154	2025-06-18 19:16:48
+Menor Posicion		44	2018	2025-06-18 19:16:47
+Mayor Posicion		10	487736	2025-06-18 19:16:46
+
+PID: 81389
+Numero de escrituras: 50
+Primera Escritura	1	42208	2025-06-18 19:16:45
+Ultima Escritura	50	102431	2025-06-18 19:16:48
+Menor Posicion		8	2243	2025-06-18 19:16:46
+Mayor Posicion		25	487028	2025-06-18 19:16:46
+
+PID: 81391
+Numero de escrituras: 50
+Primera Escritura	1	87695	2025-06-18 19:16:45
+Ultima Escritura	50	300564	2025-06-18 19:16:48
+Menor Posicion		17	42084	2025-06-18 19:16:46
+Mayor Posicion		23	498679	2025-06-18 19:16:47
+
+PID: 81392
+Numero de escrituras: 50
+Primera Escritura	1	493602	2025-06-18 19:16:45
+Ultima Escritura	50	475738	2025-06-18 19:16:48
+Menor Posicion		38	942	2025-06-18 19:16:47
+Mayor Posicion		25	494581	2025-06-18 19:16:47
+
+PID: 81393
+Numero de escrituras: 50
+Primera Escritura	1	3998	2025-06-18 19:16:46
+Ultima Escritura	50	264375	2025-06-18 19:16:48
+Menor Posicion		1	3998	2025-06-18 19:16:46
+Mayor Posicion		37	462555	2025-06-18 19:16:47
+
+PID: 81394
+Numero de escrituras: 50
+Primera Escritura	1	160828	2025-06-18 19:16:46
+Ultima Escritura	50	226640	2025-06-18 19:16:48
+Menor Posicion		23	17767	2025-06-18 19:16:47
+Mayor Posicion		32	492290	2025-06-18 19:16:47
+
+PID: 81396
+Numero de escrituras: 50
+Primera Escritura	1	189892	2025-06-18 19:16:46
+Ultima Escritura	50	380448	2025-06-18 19:16:48
+Menor Posicion		40	6019	2025-06-18 19:16:48
+Mayor Posicion		5	498236	2025-06-18 19:16:46
+
+PID: 81398
+Numero de escrituras: 50
+Primera Escritura	1	168418	2025-06-18 19:16:46
+Ultima Escritura	50	61279	2025-06-18 19:16:48
+Menor Posicion		20	504	2025-06-18 19:16:47
+Mayor Posicion		40	497018	2025-06-18 19:16:48
+
+PID: 81399
+Numero de escrituras: 50
+Primera Escritura	1	294577	2025-06-18 19:16:46
+Ultima Escritura	50	50688	2025-06-18 19:16:48
+Menor Posicion		34	9273	2025-06-18 19:16:48
+Mayor Posicion		41	492456	2025-06-18 19:16:48
+
+PID: 81400
+Numero de escrituras: 50
+Primera Escritura	1	61976	2025-06-18 19:16:46
+Ultima Escritura	50	381179	2025-06-18 19:16:48
+Menor Posicion		36	3681	2025-06-18 19:16:48
+Mayor Posicion		33	481352	2025-06-18 19:16:48
+
+PID: 81402
+Numero de escrituras: 50
+Primera Escritura	1	305284	2025-06-18 19:16:46
+Ultima Escritura	50	387332	2025-06-18 19:16:49
+Menor Posicion		31	62713	2025-06-18 19:16:48
+Mayor Posicion		17	473543	2025-06-18 19:16:47
+
+PID: 81403
+Numero de escrituras: 50
+Primera Escritura	1	397434	2025-06-18 19:16:46
+Ultima Escritura	50	96915	2025-06-18 19:16:49
+Menor Posicion		43	1419	2025-06-18 19:16:48
+Mayor Posicion		45	473688	2025-06-18 19:16:48
+
+PID: 81405
+Numero de escrituras: 50
+Primera Escritura	1	189740	2025-06-18 19:16:46
+Ultima Escritura	50	3657	2025-06-18 19:16:49
+Menor Posicion		21	3089	2025-06-18 19:16:47
+Mayor Posicion		22	482520	2025-06-18 19:16:47
+
