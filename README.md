@@ -240,6 +240,6 @@ Autores
 
     Adelaida Delgado (diseño original de la práctica).
 
-    Implementación y adaptación realizada por [Tu nombre o grupo].
+    Implementación y adaptación realizada por Alejandro Martínez.
 
     Nota: Este proyecto es puramente académico y tiene como objetivo comprender los fundamentos de los sistemas de ficheros. No está diseñado para ser utilizado en entornos de producción.
